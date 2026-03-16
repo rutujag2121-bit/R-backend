@@ -1,0 +1,3 @@
+# ZAP Rules Configuration
+# Format: rule_id  IGNORE/WARN/FAIL  optional_description
+# Leave empty to use ZAP defaults - all findings will be reported
